@@ -9,7 +9,7 @@
             "email": "jojoe.wei@gmail.com"
         }
     ],
-    "minimum-stability": "beta",
+    "minimum-stability": "1.0.0-beta",
     "require": {
     	"smarty/smarty": "~3.1"
     },
