@@ -10,7 +10,7 @@
         }
     ],
     "version": "1.0.0",
-    "minimum-stability": "beta",
+    "minimum-stability": "stable",
     "require": {
     	"smarty/smarty": "~3.1"
     },
